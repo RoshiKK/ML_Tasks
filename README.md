@@ -26,7 +26,7 @@ Time to Max Temperature (minutes):
 Time from the first reading to when the maximum coolant temperature is reached.
 
 High RPM Periods Count:
-Number of times the engine RPM exceeded a threshold (e.g., 4000 RPM).
+Number of times the engine RPM exceeded a threshold (e.g 4000 RPM).
 
 Average Temperature Difference (Intake vs Ambient):
 Average difference between intake air temperature and ambient air temperature.
